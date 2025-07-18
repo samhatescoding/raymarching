@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Samuel/Documents/GitHub/RayTracingGPU/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Users/Samuel/Documents/GitHub/RayTracingGPU/build -IC:/Users/Samuel/Documents/GitHub/RayTracingGPU -IC:/Users/Samuel/Documents/GitHub/RayTracingGPU/external -IC:/Users/Samuel/Documents/GitHub/RayTracingGPU/external/imgui -IC:/Users/Samuel/Documents/GitHub/RayTracingGPU/external/ImGuiFileDialog -IC:/Users/Samuel/Documents/GitHub/RayTracingGPU/external/glm -IC:/Users/Samuel/Documents/GitHub/RayTracingGPU/external/imgui/backends -I/usr/local/include  -Wall -fPIC -Wno-deprecated-declarations -g -std=gnu++17 -o CMakeFiles\\P2-GPUToy.dir\\main.cpp.obj -c C:\\Users\\Samuel\\Documents\\GitHub\\RayTracingGPU\\main.cpp",
+  "file": "C:\\Users\\Samuel\\Documents\\GitHub\\RayTracingGPU\\main.cpp",
+  "output": "CMakeFiles\\P2-GPUToy.dir\\main.cpp.obj"
+}
+]
