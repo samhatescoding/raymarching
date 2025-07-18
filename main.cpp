@@ -133,7 +133,7 @@ int main() {
 
     std::cout << "[INFO] OpenGL Version: " << glGetString(GL_VERSION) << "\n";
 
-    GLuint shaderProgram = createShaderProgram("../src/shaders/basic.vert", "../src/shaders/raymarching.frag");
+    GLuint shaderProgram = createShaderProgram("../src/shaders/basic.vert", "../src/shaders/figures.frag");
 
     float quad[] = {
         -1, -1,
